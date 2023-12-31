@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+$light-mode-color: #fafafa;
+$dark-mode-color: #18181b;
+
+html.dark {
+  --el-bg-color: #18181b;
+}
+
+.el-popper {
+  .el-dropdown-menu__item {
+    gap: 5px;
+  }
+}
