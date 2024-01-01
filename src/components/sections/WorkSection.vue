@@ -1,6 +1,6 @@
 <template>
   <div id="work-experience">
-    <h1 class="text-center">Work History</h1>
+    <div class="text-center text-2xl font-bold">Work History</div>
     <el-timeline>
       <el-timeline-item
         center
