@@ -15,9 +15,6 @@
           </div>
           <div class="font-semibold text-zinc-700 dark:text-zinc-400">
             <FWIcon icon="briefcase" /> Senior Application Developer |
-            <FWIcon icon="indian-rupee-sign" /> 10 LPA
-          </div>
-          <div class="font-semibold text-zinc-700 dark:text-zinc-400 mb-2">
             <FWIcon icon="clock" /> Full-Time
           </div>
           <ul class="text-zinc-500 list-disc mx-5">
@@ -48,9 +45,6 @@
           </div>
           <div class="font-semibold text-zinc-700 dark:text-zinc-400">
             <FWIcon icon="briefcase" /> System Engineer |
-            <FWIcon icon="indian-rupee-sign" /> 4 LPA
-          </div>
-          <div class="font-semibold text-zinc-700 dark:text-zinc-400 mb-2">
             <FWIcon icon="clock" /> Full-Time
           </div>
           <ul class="text-zinc-500 list-disc mx-5">
@@ -116,9 +110,6 @@
           </div>
           <div class="font-semibold text-zinc-700 dark:text-zinc-400">
             <FWIcon icon="briefcase" /> Software Engineer |
-            <FWIcon icon="indian-rupee-sign" /> 4 LPA
-          </div>
-          <div class="font-semibold text-zinc-700 dark:text-zinc-400 mb-2">
             <FWIcon icon="clock" /> Full-Time
           </div>
           <ul class="text-zinc-500 list-disc mx-5">
@@ -177,9 +168,6 @@
           </div>
           <div class="font-semibold text-zinc-700 dark:text-zinc-400">
             <FWIcon icon="briefcase" /> Software Developer |
-            <FWIcon icon="indian-rupee-sign" /> 15k / Month
-          </div>
-          <div class="font-semibold text-zinc-700 dark:text-zinc-400 mb-2">
             <FWIcon icon="clock" /> Internship
           </div>
           <ul class="text-zinc-500 list-disc mx-5">
