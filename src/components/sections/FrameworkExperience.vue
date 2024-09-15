@@ -10,7 +10,7 @@
         <FWIcon icon="fa-brands fa-java" />
         <div>Java (Structs)</div>
         <div class="text-sm text-zinc-500">
-          <FWIcon icon="clock" /> 8 Months
+          <FWIcon icon="clock" /> 1.2 Years
         </div>
       </el-card>
       <el-card class="framework-card">
@@ -31,7 +31,7 @@
         <FWIcon icon="fa-brands fa-vuejs" style="color: #63e6be" />
         <div>Vue JS</div>
         <div class="text-sm text-zinc-500">
-          <FWIcon icon="clock" /> 1.5 Years
+          <FWIcon icon="clock" /> 2.5 Years
         </div></el-card
       >
     </div>

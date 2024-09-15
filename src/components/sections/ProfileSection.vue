@@ -36,7 +36,7 @@
         >
       </div>
       <div class="paragraph">
-        I am a highly skilled and experienced web developer with over 3.5+ years
+        I am a highly skilled and experienced web developer with over 5+ years
         of experience in the IT industry. My focus is primarily on front-end
         technologies, including HTML, CSS, JavaScript, React JS, Redux, and
         Angular JS.

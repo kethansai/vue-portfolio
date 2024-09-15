@@ -4,10 +4,42 @@
     <el-timeline>
       <el-timeline-item
         center
-        timestamp="Sept / 2022 - Current"
+        timestamp="Sept / 2024 - Current"
         placement="top"
         size="large"
         type="primary"
+      >
+        <el-card shadow="never" class="experience-card">
+          <div class="text-xl font-bold">
+            <FWIcon icon="building" /> Infineon Technologies
+          </div>
+          <div class="font-semibold text-zinc-700 dark:text-zinc-400">
+            <FWIcon icon="briefcase" /> Senior Engineer |
+            <FWIcon icon="clock" /> Full-Time
+          </div>
+          <ul class="text-zinc-500 list-disc mx-5">
+            <li>
+              Working on (Vite+Vue3+Pinia+TS) as an application developer at
+              Infineon Technologies.
+            </li>
+            <li>
+              Working on python FastAPI & .Net framework for backend service
+              with MySQL and GraphQL.
+            </li>
+            <li>
+              Working on CI/CD automation by using (Bitbucket, Docker, Red hat
+              OpenShift cloud platform, Argo CD) as a Build Master role for the
+              new/existing projects in our team.
+            </li>
+          </ul>
+        </el-card>
+      </el-timeline-item>
+      <el-timeline-item
+        center
+        timestamp="Sept / 2022 - Sept/2024"
+        placement="top"
+        size="large"
+        type="success"
       >
         <el-card shadow="never" class="experience-card">
           <div class="text-xl font-bold">
@@ -19,15 +51,15 @@
           </div>
           <ul class="text-zinc-500 list-disc mx-5">
             <li>
-              Working on (Vite+Vue3+Pinia+TS) as an application developer at
+              Worked on (Vite+Vue3+Pinia+TS) as an application developer at
               Infineon Technologies.
             </li>
             <li>
-              Working on python FastAPI framework for backend service with MySQL
+              Worked on python FastAPI framework for backend service with MySQL
               and GraphQL.
             </li>
             <li>
-              Working on CI/CD automation by using (Bitbucket, Docker, Red hat
+              Worked on CI/CD automation by using (Bitbucket, Docker, Red hat
               OpenShift cloud platform, Argo CD) as a Build Master role for the
               new/existing projects in our team.
             </li>
@@ -100,7 +132,7 @@
         </el-card>
       </el-timeline-item>
       <el-timeline-item
-        timestamp="July / 2020 - Apr / 2021"
+        timestamp="Feb / 2020 - Apr / 2021"
         placement="top"
         type="success"
       >
@@ -158,7 +190,7 @@
         </el-card>
       </el-timeline-item>
       <el-timeline-item
-        timestamp="Feb / 2020 - July / 2020"
+        timestamp="Nov / 2019 - Jan / 2020"
         placement="top"
         type="success"
       >
